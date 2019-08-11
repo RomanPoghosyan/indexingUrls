@@ -1,0 +1,6 @@
+{
+    "require": {
+        "elasticsearch/elasticsearch": "^7.0",
+        "curl/curl": "^2.0"
+    }
+}
